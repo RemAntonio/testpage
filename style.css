@@ -1,0 +1,51 @@
+ html { 
+ 	overflow-x: hidden; 
+ }
+ body {
+    background-image: url(img/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1 {
+	padding-top: 20px;
+}
+
+.under_img{
+	padding-top: 30px;
+}
+ul {
+	text-align: left;
+	font-size: 19px;
+	padding-left: 100px;
+}
+
+ol {
+	text-align: left;
+	font-size: 19px;
+	padding-left: 100px;
+}
+
+img {
+padding-left: 15px;
+}
+.main_content{
+  display: block;
+  background: rgba(255,255,255, 0.7);
+  border-radius: 15px;
+  max-width: 1024px;
+  float: center;
+}
+
+.content{
+	text-align: justify;
+	margin: 40px;
+	font-size: 19px;
+}
+
+.content2{
+	padding-bottom: 30px;
+	display: block;
+}
